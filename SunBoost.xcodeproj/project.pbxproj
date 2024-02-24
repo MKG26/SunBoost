@@ -7,18 +7,60 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		733A8E692B87130700D0BCBF /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E682B87130700D0BCBF /* SplashScreen.swift */; };
+		733A8E6B2B872E9E00D0BCBF /* Onenone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E6A2B872E9E00D0BCBF /* Onenone.swift */; };
+		733A8E6F2B87338F00D0BCBF /* Onentwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E6E2B87338F00D0BCBF /* Onentwo.swift */; };
+		733A8E712B87349200D0BCBF /* Onenthree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E702B87349200D0BCBF /* Onenthree.swift */; };
+		733A8E732B87359A00D0BCBF /* Twonone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E722B87359A00D0BCBF /* Twonone.swift */; };
+		733A8E752B87366900D0BCBF /* Twontwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E742B87366900D0BCBF /* Twontwo.swift */; };
+		733A8E772B87377500D0BCBF /* Threenone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E762B87377500D0BCBF /* Threenone.swift */; };
+		733A8E792B8738B000D0BCBF /* Threentwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E782B8738B000D0BCBF /* Threentwo.swift */; };
+		733A8E7B2B87395800D0BCBF /* Threenthree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E7A2B87395800D0BCBF /* Threenthree.swift */; };
+		733A8E7D2B8739FB00D0BCBF /* Fournone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E7C2B8739FB00D0BCBF /* Fournone.swift */; };
+		733A8E7F2B873AF700D0BCBF /* Fourntwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E7E2B873AF700D0BCBF /* Fourntwo.swift */; };
+		733A8E812B8741C800D0BCBF /* Fivenone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E802B8741C800D0BCBF /* Fivenone.swift */; };
+		733A8E832B87428200D0BCBF /* Fiventwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E822B87428200D0BCBF /* Fiventwo.swift */; };
+		733A8E852B8742F100D0BCBF /* Fiventhree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E842B8742F100D0BCBF /* Fiventhree.swift */; };
+		733A8E872B87AC0A00D0BCBF /* Game.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E862B87AC0A00D0BCBF /* Game.swift */; };
+		733A8E892B87C75100D0BCBF /* Report.swift in Sources */ = {isa = PBXBuildFile; fileRef = 733A8E882B87C75100D0BCBF /* Report.swift */; };
 		7343D7B62B832C16006B5669 /* SunBoostApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7B52B832C16006B5669 /* SunBoostApp.swift */; };
 		7343D7B82B832C16006B5669 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7B72B832C16006B5669 /* ContentView.swift */; };
 		7343D7BA2B832C18006B5669 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7343D7B92B832C18006B5669 /* Assets.xcassets */; };
 		7343D7BD2B832C18006B5669 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7343D7BC2B832C18006B5669 /* Preview Assets.xcassets */; };
+		7343D7C62B835DC8006B5669 /* SecondPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7C52B835DC8006B5669 /* SecondPage.swift */; };
+		7343D7C82B83AF43006B5669 /* ThirdPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7C72B83AF43006B5669 /* ThirdPage.swift */; };
+		7343D7CA2B847922006B5669 /* FourthPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7C92B847921006B5669 /* FourthPage.swift */; };
+		7343D7CC2B851A74006B5669 /* FifthPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7CB2B851A74006B5669 /* FifthPage.swift */; };
+		7343D7CE2B8524F7006B5669 /* Navigate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7343D7CD2B8524F7006B5669 /* Navigate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		733A8E682B87130700D0BCBF /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		733A8E6A2B872E9E00D0BCBF /* Onenone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onenone.swift; sourceTree = "<group>"; };
+		733A8E6E2B87338F00D0BCBF /* Onentwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onentwo.swift; sourceTree = "<group>"; };
+		733A8E702B87349200D0BCBF /* Onenthree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Onenthree.swift; sourceTree = "<group>"; };
+		733A8E722B87359A00D0BCBF /* Twonone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Twonone.swift; sourceTree = "<group>"; };
+		733A8E742B87366900D0BCBF /* Twontwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Twontwo.swift; sourceTree = "<group>"; };
+		733A8E762B87377500D0BCBF /* Threenone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Threenone.swift; sourceTree = "<group>"; };
+		733A8E782B8738B000D0BCBF /* Threentwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Threentwo.swift; sourceTree = "<group>"; };
+		733A8E7A2B87395800D0BCBF /* Threenthree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Threenthree.swift; sourceTree = "<group>"; };
+		733A8E7C2B8739FB00D0BCBF /* Fournone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fournone.swift; sourceTree = "<group>"; };
+		733A8E7E2B873AF700D0BCBF /* Fourntwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fourntwo.swift; sourceTree = "<group>"; };
+		733A8E802B8741C800D0BCBF /* Fivenone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fivenone.swift; sourceTree = "<group>"; };
+		733A8E822B87428200D0BCBF /* Fiventwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fiventwo.swift; sourceTree = "<group>"; };
+		733A8E842B8742F100D0BCBF /* Fiventhree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fiventhree.swift; sourceTree = "<group>"; };
+		733A8E862B87AC0A00D0BCBF /* Game.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Game.swift; sourceTree = "<group>"; };
+		733A8E882B87C75100D0BCBF /* Report.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Report.swift; sourceTree = "<group>"; };
 		7343D7B22B832C16006B5669 /* SunBoost.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SunBoost.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7343D7B52B832C16006B5669 /* SunBoostApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunBoostApp.swift; sourceTree = "<group>"; };
 		7343D7B72B832C16006B5669 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7343D7B92B832C18006B5669 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7343D7BC2B832C18006B5669 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7343D7C52B835DC8006B5669 /* SecondPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondPage.swift; sourceTree = "<group>"; };
+		7343D7C72B83AF43006B5669 /* ThirdPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdPage.swift; sourceTree = "<group>"; };
+		7343D7C92B847921006B5669 /* FourthPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthPage.swift; sourceTree = "<group>"; };
+		7343D7CB2B851A74006B5669 /* FifthPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthPage.swift; sourceTree = "<group>"; };
+		7343D7CD2B8524F7006B5669 /* Navigate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +95,27 @@
 			children = (
 				7343D7B52B832C16006B5669 /* SunBoostApp.swift */,
 				7343D7B72B832C16006B5669 /* ContentView.swift */,
+				7343D7CD2B8524F7006B5669 /* Navigate.swift */,
+				7343D7C52B835DC8006B5669 /* SecondPage.swift */,
+				733A8E682B87130700D0BCBF /* SplashScreen.swift */,
+				7343D7C72B83AF43006B5669 /* ThirdPage.swift */,
+				7343D7C92B847921006B5669 /* FourthPage.swift */,
+				733A8E6A2B872E9E00D0BCBF /* Onenone.swift */,
+				7343D7CB2B851A74006B5669 /* FifthPage.swift */,
+				733A8E722B87359A00D0BCBF /* Twonone.swift */,
+				733A8E782B8738B000D0BCBF /* Threentwo.swift */,
+				733A8E822B87428200D0BCBF /* Fiventwo.swift */,
+				733A8E7C2B8739FB00D0BCBF /* Fournone.swift */,
+				733A8E882B87C75100D0BCBF /* Report.swift */,
+				733A8E7E2B873AF700D0BCBF /* Fourntwo.swift */,
+				733A8E802B8741C800D0BCBF /* Fivenone.swift */,
+				733A8E742B87366900D0BCBF /* Twontwo.swift */,
+				733A8E7A2B87395800D0BCBF /* Threenthree.swift */,
+				733A8E842B8742F100D0BCBF /* Fiventhree.swift */,
+				733A8E762B87377500D0BCBF /* Threenone.swift */,
+				733A8E862B87AC0A00D0BCBF /* Game.swift */,
+				733A8E6E2B87338F00D0BCBF /* Onentwo.swift */,
+				733A8E702B87349200D0BCBF /* Onenthree.swift */,
 				7343D7B92B832C18006B5669 /* Assets.xcassets */,
 				7343D7BB2B832C18006B5669 /* Preview Content */,
 			);
@@ -137,8 +200,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				733A8E692B87130700D0BCBF /* SplashScreen.swift in Sources */,
+				733A8E792B8738B000D0BCBF /* Threentwo.swift in Sources */,
+				733A8E7D2B8739FB00D0BCBF /* Fournone.swift in Sources */,
+				733A8E7F2B873AF700D0BCBF /* Fourntwo.swift in Sources */,
+				7343D7CC2B851A74006B5669 /* FifthPage.swift in Sources */,
+				733A8E772B87377500D0BCBF /* Threenone.swift in Sources */,
+				733A8E712B87349200D0BCBF /* Onenthree.swift in Sources */,
+				733A8E832B87428200D0BCBF /* Fiventwo.swift in Sources */,
 				7343D7B82B832C16006B5669 /* ContentView.swift in Sources */,
+				733A8E892B87C75100D0BCBF /* Report.swift in Sources */,
 				7343D7B62B832C16006B5669 /* SunBoostApp.swift in Sources */,
+				733A8E852B8742F100D0BCBF /* Fiventhree.swift in Sources */,
+				733A8E752B87366900D0BCBF /* Twontwo.swift in Sources */,
+				7343D7CE2B8524F7006B5669 /* Navigate.swift in Sources */,
+				733A8E6B2B872E9E00D0BCBF /* Onenone.swift in Sources */,
+				733A8E812B8741C800D0BCBF /* Fivenone.swift in Sources */,
+				733A8E7B2B87395800D0BCBF /* Threenthree.swift in Sources */,
+				7343D7C82B83AF43006B5669 /* ThirdPage.swift in Sources */,
+				733A8E872B87AC0A00D0BCBF /* Game.swift in Sources */,
+				7343D7C62B835DC8006B5669 /* SecondPage.swift in Sources */,
+				733A8E6F2B87338F00D0BCBF /* Onentwo.swift in Sources */,
+				733A8E732B87359A00D0BCBF /* Twonone.swift in Sources */,
+				7343D7CA2B847922006B5669 /* FourthPage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,9 +353,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SunBoost/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -286,6 +371,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.First.SunBoost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -297,9 +383,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SunBoost/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -314,6 +401,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.First.SunBoost;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
